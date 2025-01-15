@@ -1,4 +1,4 @@
-# Caribbean-frugivory-overview-and-patterns
+# Plant–frugivore interactions across the Caribbean islands: Modularity, invader complexes and the importance of generalist species
 
 Data is publicly available. Please contact corresponding author for any questions
 m.vollstaedt@csic.es
